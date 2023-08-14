@@ -1,0 +1,6 @@
+.vscode
+build
+old
+*.d
+*.o
+nRF5_SDK*
